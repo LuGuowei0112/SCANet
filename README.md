@@ -1,4 +1,4 @@
-# A Semantic-Guided Cross-Attention Network for Change De-tection in High-Resolution Remote Sensing Images
+# A Semantic-Guided Cross-Attention Network for Change Detection in High-Resolution Remote Sensing Images
 
 ## Program description
 This repository contains all the code needed to reproduce the paper:
